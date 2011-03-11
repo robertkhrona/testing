@@ -1,0 +1,5 @@
+C:\Users\Khrona\Desktop\wrappers\AwesomiumSharp\AwesomiumSharp\bin\Debug\BasicSample.exe
+C:\Users\Khrona\Desktop\wrappers\AwesomiumSharp\AwesomiumSharp\bin\Debug\BasicSample.pdb
+C:\Users\Khrona\Desktop\wrappers\AwesomiumSharp\BasicSample\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Khrona\Desktop\wrappers\AwesomiumSharp\BasicSample\obj\x86\Debug\BasicSample.exe
+C:\Users\Khrona\Desktop\wrappers\AwesomiumSharp\BasicSample\obj\x86\Debug\BasicSample.pdb

@@ -1,0 +1,15 @@
+C:\Users\Khrona\Desktop\wrappers\AwesomiumSharp\AwesomiumSharp\bin\Debug\throbber.gif
+C:\Users\Khrona\Desktop\wrappers\AwesomiumSharp\AwesomiumSharp\bin\Debug\TabbedBrowserSample.exe
+C:\Users\Khrona\Desktop\wrappers\AwesomiumSharp\AwesomiumSharp\bin\Debug\TabbedBrowserSample.pdb
+C:\Users\Khrona\Desktop\wrappers\AwesomiumSharp\TabbedBrowserSample\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Khrona\Desktop\wrappers\AwesomiumSharp\TabbedBrowserSample\obj\x86\Debug\MainWindow.baml
+C:\Users\Khrona\Desktop\wrappers\AwesomiumSharp\TabbedBrowserSample\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Khrona\Desktop\wrappers\AwesomiumSharp\TabbedBrowserSample\obj\x86\Debug\App.g.cs
+C:\Users\Khrona\Desktop\wrappers\AwesomiumSharp\TabbedBrowserSample\obj\x86\Debug\TabbedBrowserSample_Content.g.cs
+C:\Users\Khrona\Desktop\wrappers\AwesomiumSharp\TabbedBrowserSample\obj\x86\Debug\TabbedBrowserSample_MarkupCompile.cache
+C:\Users\Khrona\Desktop\wrappers\AwesomiumSharp\TabbedBrowserSample\obj\x86\Debug\TabbedBrowserSample.g.resources
+C:\Users\Khrona\Desktop\wrappers\AwesomiumSharp\TabbedBrowserSample\obj\x86\Debug\TabbedBrowserSample.Properties.Resources.resources
+C:\Users\Khrona\Desktop\wrappers\AwesomiumSharp\TabbedBrowserSample\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Khrona\Desktop\wrappers\AwesomiumSharp\TabbedBrowserSample\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Khrona\Desktop\wrappers\AwesomiumSharp\TabbedBrowserSample\obj\x86\Debug\TabbedBrowserSample.exe
+C:\Users\Khrona\Desktop\wrappers\AwesomiumSharp\TabbedBrowserSample\obj\x86\Debug\TabbedBrowserSample.pdb
