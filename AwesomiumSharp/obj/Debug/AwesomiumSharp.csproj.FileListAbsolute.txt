@@ -1,5 +1,0 @@
-C:\Users\Khrona\Desktop\wrappers\AwesomiumSharp\AwesomiumSharp\bin\Debug\AwesomiumSharp.dll
-C:\Users\Khrona\Desktop\wrappers\AwesomiumSharp\AwesomiumSharp\bin\Debug\AwesomiumSharp.pdb
-C:\Users\Khrona\Desktop\wrappers\AwesomiumSharp\AwesomiumSharp\obj\Debug\ResolveAssemblyReference.cache
-C:\Users\Khrona\Desktop\wrappers\AwesomiumSharp\AwesomiumSharp\obj\Debug\AwesomiumSharp.dll
-C:\Users\Khrona\Desktop\wrappers\AwesomiumSharp\AwesomiumSharp\obj\Debug\AwesomiumSharp.pdb
